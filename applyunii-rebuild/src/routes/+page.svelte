@@ -7,6 +7,9 @@
     import Destinations from '$lib/components/Destinations.svelte';
     import TrendingCourses from '$lib/components/TrendingCourses.svelte';
     import Testimonials from '$lib/components/Testimonials.svelte';
+    import BlogSection from '$lib/components/BlogSection.svelte';
+    import CTASection from '$lib/components/CTASection.svelte';
+    import Footer from '$lib/components/Footer.svelte';
   </script>
   
   <Navbar />
@@ -19,4 +22,7 @@
       <Destinations />
       <TrendingCourses />
       <Testimonials />
+      <BlogSection />
+      <CTASection />
+      <Footer />
     </main>
