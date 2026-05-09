@@ -8,7 +8,7 @@
                 <div class="w-10  h-[1px] bg-gray-700"></div>
             </div>
             <h2 class="text-5xl md:text-6xl font-bold text-white">
-                Where your <span class="text-[#00d084]">global future</span>begins
+                Where your <span class="text-[#00d084]">global future </span>begins
             </h2>
         </div>
 

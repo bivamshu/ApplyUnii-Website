@@ -5,6 +5,8 @@
     import Features from '$lib/components/Features.svelte';
     import Services from '$lib/components/Services.svelte';
     import Destinations from '$lib/components/Destinations.svelte';
+    import TrendingCourses from '$lib/components/TrendingCourses.svelte';
+    import Testimonials from '$lib/components/Testimonials.svelte';
   </script>
   
   <Navbar />
@@ -15,4 +17,6 @@
       <Features />
       <Services />
       <Destinations />
+      <TrendingCourses />
+      <Testimonials />
     </main>
